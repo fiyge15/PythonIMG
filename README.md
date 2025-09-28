@@ -17,7 +17,7 @@ The project requires the following Python libraries:
 - **io** – Input/output operations (built-in Python library)
 - **os, sys, subprocess, tempfile** – System operations (built-in Python libraries)
 
-Note: Built-in libraries (`os`, `sys`, `csv`, `io`, `pickle`, `subprocess`, `tempfile`, `tkinter`) do not require installation.
+**Note:** Built-in libraries (`os`, `sys`, `csv`, `io`, `pickle`, `subprocess`, `tempfile`, `tkinter`) do not require installation.
 
 ## Installation
 
